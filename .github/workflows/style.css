@@ -1,0 +1,38 @@
+body {
+    background: linear-gradient(to right, #ff758c, #ff7eb3);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+button {
+    padding: 12px 25px;
+    font-size: 18px;
+    border: none;
+    border-radius: 20px;
+    background-color: white;
+    color: #ff4f81;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ffe3ec;
+}
+
+.hidden {
+    display: none;
+}
+
+#message {
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.love {
+    margin-top: 15px;
+    font-weight: bold;
+}
