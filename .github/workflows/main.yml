@@ -9,16 +9,16 @@
 
 <div class="container">
     <h1>🎉 Happy Birthday 🎉</h1>
-    <h2 id="name">Dear ❤️</h2>
+    <h2>Dear ❤️</h2>
 
     <button onclick="showMessage()">Open Your Surprise 🎁</button>
 
     <div id="message" class="hidden">
         <p>
-            Happy Birthday! 💖  
-            You are very special to me.  
-            May your life be filled with happiness, success, and love.  
-            Thank you for being part of my life 🌸  
+            Happy Birthday! 💖<br><br>
+            You are very special to me.<br>
+            May your life be filled with happiness, success, and love.<br><br>
+            Thank you for being part of my life 🌸
         </p>
         <p class="love">With lots of love ❤️</p>
     </div>
